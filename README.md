@@ -119,7 +119,7 @@ jupyter notebook Emotion_Detection_Complete_Project.ipynb
 
 **Raj Shivade**
 Data Science & Data Analytics Enthusiast
-B.Tech – G H Raisoni College of Engineering & Management
+**📧 www.linkedin.com/in/raj-shivade25 | 📫 Email: rajshivade11@gmail.com**
 
 ---
 
